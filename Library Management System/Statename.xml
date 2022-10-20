@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<statesnames>
+  <state>
+    <id>Andhra Pradesh</id>
+    <name>Andhra Pradesh</name>
+  </state>
+  <state>
+    <id>Arunachal Pradesh</id>
+    <name>Arunachal Pradesh</name>
+  </state>
+  <state>
+    <id>Assam</id>
+    <name>Assam</name>
+  </state>
+  <state>
+    <id>Bihar</id>
+    <name>Bihar</name>
+  </state>
+  <state>
+    <id>Chhattisgarh</id>
+    <name>Chhattisgarh</name>
+  </state>
+  <state>
+    <id>Goa</id>
+    <name>Goa</name>
+  </state>
+  <state>
+    <id>GJ</id>
+    <name>Gujarat</name>
+    </state>
+ <state>
+    <id>HR</id>
+    <name>Haryana</name>
+    </state>
+<state>
+    <id>HP</id>
+    <name>Himachal Pradesh</name>
+    </state>
+<state>
+    <id>JK</id>
+    <name>Jammu and Kashmir</name>
+    </state>
+<state>
+    <id>JH</id>
+    <name>Jharkhand</name>
+    </state>
+<state>
+    <id>KA</id>
+    <name>Karnataka</name>
+    </state>
+<state>
+    <id>KL</id>
+    <name>Kerala</name>
+    </state>
+<state>
+    <id>MP</id>
+    <name>Madhya Pradesh</name>
+    </state>
+<state>
+    <id>MH</id>
+    <name>Maharashtra</name>
+    </state>
+<state>
+    <id>MN</id>
+    <name>Manipur</name>
+    </state>
+<state>
+    <id>ML</id>
+    <name>Meghalaya</name>
+    </state>
+<state>
+    <id>MZ</id>
+    <name>Mizoram</name>
+    </state>
+<state>
+    <id>NL</id>
+    <name>Nagaland</name>
+    </state>
+<state>
+    <id>OR</id>
+    <name>Odisha</name>
+    </state>
+<state>
+    <id>PB</id>
+    <name>Punjab</name>
+    </state>
+<state>
+    <id>RJ</id>
+    <name>Rajasthan</name>
+    </state>
+<state>
+    <id>SK</id>
+    <name>Sikkim</name>
+    </state>
+<state>
+    <id>TN</id>
+    <name>Tamil Nadu</name>
+    </state>
+<state>
+    <id>TG</id>
+    <name>Telangana</name>
+    </state>
+<state>
+    <id>TR</id>
+    <name>Tripura</name>
+    </state>
+<state>
+    <id>UT</id>
+    <name>Uttarakhand</name>
+    </state>
+<state>
+    <id>UP</id>
+    <name>Uttar Pradesh</name>
+    </state>
+<state>
+    <id>WB</id>
+    <name>West Bengal</name>
+    </state>
+<state>
+    <id>AN</id>
+    <name>Andaman and Nicobar Islands</name>
+    </state>
+<state>
+    <id>CH</id>
+    <name>Chandigarh</name>
+    </state>
+<state>
+    <id>DN</id>
+    <name>Dadra and Nagar Haveli</name>
+    </state>
+<state>
+    <id>DD</id>
+    <name>Daman and Diu</name>
+    </state>
+<state>
+    <id>Delhi</id>
+    <name>Delhi</name>
+    </state>
+<state>
+    <id>LD</id>
+    <name>Lakshadweep</name>
+    </state>
+<state>
+    <id>PY</id>
+    <name>Puducherry</name>
+    </state>
+</statesnames>
