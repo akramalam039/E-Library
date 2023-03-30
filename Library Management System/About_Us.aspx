@@ -59,7 +59,7 @@
                                 <label>Full Name</label>
                             </div>
                             <div class="col-6">
-                                <asp:TextBox ID="TextBox3" Placeholder="Your Full Name" required Class="form-control" runat="server"></asp:TextBox>
+                                <asp:TextBox ID="fullname" Placeholder="Your Full Name" required Class="form-control" runat="server"></asp:TextBox>
                             </div>
                         </div>
                         <div class="row">
@@ -67,7 +67,7 @@
                                 <label>Email Address</label>
                             </div>
                             <div class="col-6">
-                                <asp:TextBox ID="TextBox4" Placeholder="Your Email Address" required TextMode="Email" Class="form-control" runat="server"></asp:TextBox>
+                                <asp:TextBox ID="email" Placeholder="Your Email Address" required TextMode="Email" Class="form-control" runat="server"></asp:TextBox>
                             </div>
                         </div>
                         <div class="row">
@@ -75,13 +75,13 @@
                                 <label>Message</label>
                             </div>
                             <div class="col-6">
-                                <asp:TextBox ID="TextBox5" Class="form-control" Placeholder="Enter Your Message Here......." TextMode="MultiLine" runat="server" Rows="3"></asp:TextBox>
+                                <asp:TextBox ID="messagebox" Class="form-control" Placeholder="Enter Your Message Here......." TextMode="MultiLine" runat="server" Rows="3"></asp:TextBox>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col">
                                 <br />
-                                <asp:Button ID="Button1" CssClass="btn btn-success btn-block" runat="server" Text="Submit" />
+                                <asp:Button ID="consub" CssClass="btn btn-success btn-block" runat="server" Text="Submit" OnClick="consub_Click"/>
                             </div>
                         </div>
                    <%-- </div>--%>
